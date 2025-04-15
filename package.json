@@ -17,5 +17,9 @@
     "url": "https://github.com/geiselleholt/ALABBuildingAnExpressApplication/issues"
   },
   "homepage": "https://github.com/geiselleholt/ALABBuildingAnExpressApplication#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  }
 }

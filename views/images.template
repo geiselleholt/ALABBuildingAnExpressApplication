@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+
+  <body>
+  <nav>
+    <a href='./beaches/home.template'>Home</a>
+    <a href='./beaches/images.template'>Image</a>
+    <a href='./beaches/form.template'>Form</a>
+  </nav>
+    <div id="app">
+      <h1>#title#</h1>
+    </div>
+  </body>
+</html>
